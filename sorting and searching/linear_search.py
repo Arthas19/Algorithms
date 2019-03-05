@@ -1,6 +1,6 @@
-def linearSearch(list, num):
+def linearSearch(list, el):
     for i in range(len(list)):
-        if list[i] == num:
+        if list[i] == el:
             return i
     return False
 
