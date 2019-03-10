@@ -1,4 +1,3 @@
-import math
 from math import inf
 
 def merge(list, l, m, r):
